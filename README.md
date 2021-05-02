@@ -32,7 +32,4 @@
 <a href="mailto:HarryPSN321@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail"></a>
 </div>
 
-<h2>Like the stuff you see here?</h2>
-
-#
 <div align="center"><font size="2px;">2021 © Created By dyed2WICE</font></div>
