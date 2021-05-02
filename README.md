@@ -16,12 +16,9 @@
   const Harry = {
   	pronouns: ["he", "him", "they"],
     	Languages: ['Javascript', 'Lua', 'Python'],
-    	Tools: ['VSCode', 'Node', 'DiscordJS', "RobloxStudio"],
-    	hobbies:[
-	        games: ['ROBLOX', 'Valorant', 'R6'],
-	],  
+    	Languages: ['VSCode', 'Node', 'DiscordJS', "RobloxStudio"]
     	Projects: {
-    	    COLORS: "a Music Bot Created for Discord",
+    	    COLORS: "a Bot Created for Discord",
     	},
   }
 ```
