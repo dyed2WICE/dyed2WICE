@@ -29,8 +29,7 @@
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
 <div align="center">
-<a href="mailto:HarryPSN321@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail"></a><br>
-<a href="http://instagram.com/dyed_2wice/"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram"></a>
+<a href="mailto:HarryPSN321@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail"></a>
 </div>
 
 <h2>Like the stuff you see here?</h2>
