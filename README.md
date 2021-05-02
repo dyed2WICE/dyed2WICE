@@ -3,7 +3,7 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
-<em>Coder</em>
+<em>Coding enthusiast</em>
 
 
 <img width="270" height="420px" align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=21ap3xn67c7ga2ugii3e5eldq&cover_image=true&theme=default">
@@ -32,4 +32,5 @@
 <a href="mailto:HarryPSN321@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="gmail"></a>
 </div>
 
+#
 <div align="center"><font size="2px;">2021 © Created By dyed2WICE</font></div>
